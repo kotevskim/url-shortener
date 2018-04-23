@@ -1,6 +1,7 @@
 /target/
 /out/
 /build/
+.gradle
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
